@@ -66,9 +66,7 @@ The project demonstrates practical implementation of user authentication, sessio
 
 ### Sign Up Page
 
-![Sign Up Page - Top](screenshots/signup-top.png)
-
-![Sign Up Page - Bottom](screenshots/signup-bottom.png)
+![Sign Up Page - Top](screenshots/signup.png)
 
 ### Complaint Submission Form
 
