@@ -40,8 +40,7 @@ The project demonstrates practical implementation of user authentication, sessio
 - `screenshots/`
   - `home.png`
   - `login.png`
-  - `signup-top.png`
-  - `signup-bottom.png`
+  - `signup.png`
   - `complaint-form.png`
   - `complaint-status.png`
 
